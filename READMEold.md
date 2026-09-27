@@ -1,4 +1,4 @@
-# T0x
+# t0x
 # T-Zero Timestamp Standard
 
 **t0x.dev**
@@ -57,5 +57,5 @@ See `t0x.py` in this repository. It provides `validate`, `parse`, `format`, `to_
 
 ## Contact
 
-John Takashi Yoshimoto
-john.yoshimoto@gmail.com
+t0xstandard
+t0xstandard@gmail.com
